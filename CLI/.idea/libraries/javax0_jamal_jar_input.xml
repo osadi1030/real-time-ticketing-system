@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javax0.jamal.jar.input" type="repository">
+    <properties maven-id="com.javax0.jamal:jamal-jar-input:2.8.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jamal-jar-input-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamal-engine-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamal-api-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamal-core-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/levenshtein-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamal-extensions-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamal-tools-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
