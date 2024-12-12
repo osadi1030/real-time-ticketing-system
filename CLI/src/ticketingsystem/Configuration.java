@@ -1,10 +1,7 @@
 package ticketingsystem;
 
+import java.io.*;
 import com.google.gson.Gson;
-import com.google.gson.JsonIOException;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
 
 public class Configuration {
     private int totalTickets;
@@ -12,7 +9,6 @@ public class Configuration {
     private int customerRetrievalRate;
     private int maxTicketCapacity;
 
-    // Default constructor
     public Configuration(int totalTickets, int ticketReleaseRate, int customerRetrievalRate, int maxTicketCapacity) {
         this.totalTickets = totalTickets;
         this.ticketReleaseRate = ticketReleaseRate;
@@ -36,18 +32,19 @@ public class Configuration {
         return maxTicketCapacity;
     }
 
-    // Method to save configuration to a JSON file
-    public void saveConfigurationToFile(String filename) throws JsonIOException, IOException {
+    // Save Configuration to JSON
+    public static void saveConfiguration(Configuration config, String filePath) throws IOException {
         Gson gson = new Gson();
-        try (FileWriter writer = new FileWriter(filename)) {
-            gson.toJson(this, writer);
+        String json = gson.toJson(config);
+        try (FileWriter writer = new FileWriter(filePath)) {
+            writer.write(json);
         }
     }
 
-    // Method to load configuration from a JSON file
-    public static Configuration loadConfigurationFromFile(String filename) throws IOException {
+    // Load Configuration from JSON
+    public static Configuration loadConfiguration(String filePath) throws IOException {
         Gson gson = new Gson();
-        try (FileReader reader = new FileReader(filename)) {
+        try (Reader reader = new FileReader(filePath)) {
             return gson.fromJson(reader, Configuration.class);
         }
     }

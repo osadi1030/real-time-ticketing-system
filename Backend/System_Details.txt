@@ -1,0 +1,670 @@
+Total tickets : 10
+Ticket release rate : 40
+Customer retrieve rate : 40
+Max ticket capacity : 13
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-4
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-5
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-9
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-13
+Customer ID13 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 40
+Customer retrieve rate : 40
+Max ticket capacity : 12
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Vendor Added-Ticket-3
+Vendor Added-Ticket-4
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-6
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-8
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 40
+Customer retrieve rate : 40
+Max ticket capacity : 13
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Vendor Added-Ticket-4
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-13
+Customer ID13 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 40
+Customer retrieve rate : 40
+Max ticket capacity : 12
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-4
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-11
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 40
+Customer retrieve rate : 40
+Max ticket capacity : 13
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Total tickets : 10
+Ticket release rate : 40
+Customer retrieve rate : 40
+Max ticket capacity : 13
+------------------------
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-4
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-13
+Customer ID13 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Vendor Added-Ticket-4
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-11
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-13
+Customer ID13 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 40
+Customer retrieve rate : 40
+Max ticket capacity : 13
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Vendor Added-Ticket-4
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-13
+Customer ID13 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 40
+Customer retrieve rate : 40
+Max ticket capacity : 13
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-2
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Vendor Added-Ticket-4
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-11
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-13
+Customer ID13 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 60
+Customer retrieve rate : 60
+Max ticket capacity : 13
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Vendor Added-Ticket-4
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-13
+Customer ID13 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 40
+Customer retrieve rate : 40
+Max ticket capacity : 15
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-4
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Total tickets : 10
+Ticket release rate : 50
+Customer retrieve rate : 50
+Max ticket capacity : 12
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-4
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 50
+Customer retrieve rate : 50
+Max ticket capacity : 12
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Vendor Added-Ticket-4
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-10
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 2
+Customer retrieve rate : 2
+Max ticket capacity : 13
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID3 purchased a ticket
+Vendor Added-Ticket-4
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-6
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-13
+Customer ID13 purchased a ticket
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 10
+Customer retrieve rate : 10
+Max ticket capacity : 15
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-4
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-6
+Vendor Added-Ticket-7
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-10
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID13 purchased a ticket
+Vendor Added-Ticket-13
+Vendor Added-Ticket-14
+Customer ID14 purchased a ticket
+Customer ID15 purchased a ticket
+Vendor Added-Ticket-15
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 0
+Ticket release rate : 0
+Customer retrieve rate : 0
+Max ticket capacity : 0
+------------------------
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Ticket pool reached maximum ticket capacity.
+
+Total tickets : 10
+Ticket release rate : 10
+Customer retrieve rate : 10
+Max ticket capacity : 15
+------------------------
+Customer ID1 purchased a ticket
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Customer ID4 purchased a ticket
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Customer ID7 purchased a ticket
+Customer ID8 purchased a ticket
+Customer ID9 purchased a ticket
+Customer ID10 purchased a ticket
+Ticket pool is empty.
+Adding tickets to the ticketpool
+Vendor Added-Ticket-1
+Customer ID1 purchased a ticket
+Vendor Added-Ticket-2
+Customer ID2 purchased a ticket
+Customer ID3 purchased a ticket
+Vendor Added-Ticket-3
+Customer ID4 purchased a ticket
+Vendor Added-Ticket-4
+Vendor Added-Ticket-5
+Customer ID5 purchased a ticket
+Customer ID6 purchased a ticket
+Vendor Added-Ticket-6
+Customer ID7 purchased a ticket
+Vendor Added-Ticket-7
+Vendor Added-Ticket-8
+Customer ID8 purchased a ticket
+Vendor Added-Ticket-9
+Customer ID9 purchased a ticket
+Vendor Added-Ticket-10
+Customer ID10 purchased a ticket
+Vendor Added-Ticket-11
+Customer ID11 purchased a ticket
+Vendor Added-Ticket-12
+Customer ID12 purchased a ticket
+Vendor Added-Ticket-13
+Customer ID13 purchased a ticket
+Vendor Added-Ticket-14
+Customer ID14 purchased a ticket
+Customer ID15 purchased a ticket
+Vendor Added-Ticket-15
+Ticket pool reached maximum ticket capacity.
+

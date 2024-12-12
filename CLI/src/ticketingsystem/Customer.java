@@ -1,50 +1,24 @@
 package ticketingsystem;
 
-import java.util.Scanner;
+public class Customer implements Runnable {
+    private final TicketPool ticketPool;
+    private final int retrievalRate;
 
-public class Customer {
-    private final String username;
-    private final String password;
-    private final String email;
-    private final String phoneNumber;
-
-    public Customer(String username, String password, String email, String phoneNumber) {
-        this.username = username;
-        this.password = password;
-        this.email = email;
-        this.phoneNumber = phoneNumber;
+    public Customer(TicketPool ticketPool, int retrievalRate) {
+        this.ticketPool = ticketPool;
+        this.retrievalRate = retrievalRate;
     }
 
-    public String getPassword() {
-        return password;
-    }
-
-    public void handleCustomerMenu(Scanner scanner, TicketPool ticketPool) {
-        boolean loggedIn = true;
-        while (loggedIn) {
-            System.out.println("\nCustomer Menu:");
-            System.out.println("1. Purchase Tickets");
-            System.out.println("2. View Ticket Pool Status");
-            System.out.println("3. Logout");
-            System.out.print("Enter your choice: ");
-            int choice = Utility.getValidatedChoice(scanner, 3);
-
-            switch (choice) {
-                case 1 -> {
-                    System.out.print("Enter number of tickets to purchase: ");
-                    int count = Utility.getValidatedChoice(scanner, ticketPool.getTicketsAdded());
-                    if (ticketPool.removeTickets(count)) {
-                        System.out.println("Purchase successful!");
-                    } else {
-                        System.out.println("[ERROR] Not enough tickets available.");
-                    }
+    @Override
+    public void run() {
+        while (true) {
+            try {
+                Thread.sleep(1000 / retrievalRate); // Simulate retrieval rate
+                if (!ticketPool.removeTicket()) {
+                    System.out.println("No tickets available for purchase.");
                 }
-                case 2 -> ticketPool.printSystemStatus();
-                case 3 -> {
-                    loggedIn = false;
-                    System.out.println("Logged out successfully.");
-                }
-                default -> System.out.println("[ERROR] Invalid choice.");
+            } catch (InterruptedException e) {
+                e.printStackTrace();
             }
         }
     }

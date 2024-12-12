@@ -1,38 +1,38 @@
 package ticketingsystem;
 
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
+
 public class TicketPool {
-    private int ticketsAdded = 0;
-    private final int maxCapacity;
+    private final List<Integer> tickets;
 
-    public TicketPool(int maxCapacity) {
-        this.maxCapacity = maxCapacity;
-    }
-
-    public synchronized void addTickets(int count) {
-        if (ticketsAdded + count <= maxCapacity) {
-            ticketsAdded += count;
-            System.out.println(count + " tickets added successfully. Total tickets: " + ticketsAdded);
-        } else {
-            System.out.println("[ERROR] Adding tickets exceeds the maximum capacity.");
+    public TicketPool(int initialSize) {
+        tickets = Collections.synchronizedList(new LinkedList<>());
+        for (int i = 0; i < initialSize; i++) {
+            tickets.add(i);
         }
     }
 
-    public synchronized boolean removeTickets(int count) {
-        if (ticketsAdded >= count) {
-            ticketsAdded -= count;
-            System.out.println(count + " tickets removed successfully. Remaining tickets: " + ticketsAdded);
+    // Method to add tickets to the pool (Producer)
+    public synchronized void addTickets(int numberOfTickets) {
+        for (int i = 0; i < numberOfTickets; i++) {
+            tickets.add(tickets.size() + 1); // Add a ticket
+            System.out.println("Ticket added. Current pool size: " + tickets.size());
+        }
+    }
+
+    // Method to remove a ticket from the pool (Consumer)
+    public synchronized boolean removeTicket() {
+        if (!tickets.isEmpty()) {
+            tickets.remove(0); // Remove a ticket
+            System.out.println("Ticket purchased. Remaining tickets: " + tickets.size());
             return true;
-        } else {
-            System.out.println("[ERROR] Not enough tickets available.");
-            return false;
         }
+        return false;
     }
 
-    public void printSystemStatus() {
-        System.out.println("Tickets available: " + ticketsAdded + "/" + maxCapacity);
-    }
-
-    public int getTicketsAdded() {
-        return ticketsAdded;
+    public int getSize() {
+        return tickets.size();
     }
 }

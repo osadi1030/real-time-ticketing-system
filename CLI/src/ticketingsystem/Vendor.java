@@ -1,30 +1,22 @@
 package ticketingsystem;
 
-import java.util.Scanner;
+public class Vendor implements Runnable {
+    private final TicketPool ticketPool;
+    private final int releaseRate;
 
-public class Vendor {
-    public static void handleVendorMenu(Scanner scanner, TicketPool ticketPool) {
-        boolean loggedIn = true;
-        while (loggedIn) {
-            System.out.println("\nVendor Menu:");
-            System.out.println("1. Add Tickets");
-            System.out.println("2. View Ticket Pool Status");
-            System.out.println("3. Logout");
-            System.out.print("Enter your choice: ");
-            int choice = Utility.getValidatedChoice(scanner, 3);
+    public Vendor(TicketPool ticketPool, int releaseRate) {
+        this.ticketPool = ticketPool;
+        this.releaseRate = releaseRate;
+    }
 
-            switch (choice) {
-                case 1 -> {
-                    System.out.print("Enter number of tickets to add: ");
-                    int count = scanner.nextInt();
-                    ticketPool.addTickets(count);
-                }
-                case 2 -> ticketPool.printSystemStatus();
-                case 3 -> {
-                    loggedIn = false;
-                    System.out.println("Logged out successfully.");
-                }
-                default -> System.out.println("[ERROR] Invalid choice.");
+    @Override
+    public void run() {
+        while (true) {
+            try {
+                Thread.sleep(1000 / releaseRate); // Simulate release rate
+                ticketPool.addTickets(1); // Add a ticket to the pool
+            } catch (InterruptedException e) {
+                e.printStackTrace();
             }
         }
     }
